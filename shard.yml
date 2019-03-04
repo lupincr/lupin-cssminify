@@ -1,0 +1,18 @@
+name: lupin-cssminify
+version: 0.1.0
+
+authors:
+  - Mark Molnar <molnarpw@gmail.com>
+
+description: |
+  An example CSS minifier plugin for Lupin
+
+# dependencies:
+#   lupin:
+#     github: lupincr/lupin
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+license: MIT
